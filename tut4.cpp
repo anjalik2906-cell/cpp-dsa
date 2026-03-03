@@ -10,4 +10,5 @@ int main()
     float pi=3.14;
     cout<<"here value of a is"<<a<<"\nvalue of b is"<<b<<endl;
     cout<<"\n value of pi is"<<pi<<endl;
+    return ;
 }
