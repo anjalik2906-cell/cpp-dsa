@@ -8,6 +8,9 @@ int main()
 {
     int a=13 , b=17;
     float pi=3.14;
+    char c= 'd';
     cout<<"here value of a is"<<a<<"\nvalue of b is"<<b<<endl;
     cout<<"\n value of pi is"<<pi<<endl;
+    cout<<"\n value of c is"<<c<<endl;
+    return 0;
 }
