@@ -16,13 +16,13 @@ cout<<"the multiplication "<<a*b<<endl;
 cout<<"the division "<<a/b<<endl;
 
 cout<<"the modo division "<<a%b<<endl;
-cout<<"the post increment "<<a++<<b++<<endl;
+cout<<"the post increment "<<a++<<" "<<b++<<endl;
 
-cout<<"the post decrement "<<a--<<b--<<endl;
+cout<<"the post decrement "<<a--<<" "<<b--<<endl;
 
-cout<<"the pre increment "<<++a<<++b<<endl;
+cout<<"the pre increment "<<++a<<" "<<++b<<endl;
 
-cout<<"the pre decrement "<<--a<<--b<<endl;
+cout<<"the pre decrement "<<--a<<" "<<--b<<endl;
 
 
 
