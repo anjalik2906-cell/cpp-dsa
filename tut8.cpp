@@ -1,4 +1,5 @@
 #include<iostream>
+#include<iomanip>
 using namespace std;
 int main(){
     //constants in c++
@@ -12,6 +13,10 @@ int main(){
     cout<<"val of v without setw "<<v<<endl;
     cout<<"val of b without setw "<<b<<endl;
     cout<<"val of c without setw "<<c<<endl;
+    //order precedence
+    int w=3, t=8;
+    int n= (w*t)+t-96+23;
+    cout<<n;
     
     
     return 0;
