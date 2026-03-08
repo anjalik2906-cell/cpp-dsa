@@ -15,6 +15,8 @@ int main (){
     cin>>n;
     for(int i=0 ; i<n ; i++){
         cout<<i<<endl;
+        int n =3;
+        break;
     }
     int x;
     cin>>x;
