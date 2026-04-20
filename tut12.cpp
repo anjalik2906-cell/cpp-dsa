@@ -15,6 +15,8 @@ int main(){
     int** c=&b;
     cout<<"the address of b "<<c<<endl;
     cout<<"the address of c "<<*c<<endl;
+    cout<<"the value at address value (value of c) "<<**c<<endl;
+    //baiscally value of a
 
 
     return 0;
