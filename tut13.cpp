@@ -21,6 +21,12 @@ int main(){
          i++;
 
     }
+    int* p=marks;
+    cout<<"marks[0]"<<*p<<endl;
+    cout<<"marks[1]"<<*(p+1)<<endl;
+    cout<<"marks[2]"<<*(p+2)<<endl;
+    cout<<"marks[3]"<<*(p+3)<<endl;
+
 
 
     return 0;
