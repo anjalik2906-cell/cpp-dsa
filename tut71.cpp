@@ -16,7 +16,7 @@ int main(){
         cout<<v[i]<<endl;
     }
     v.pop_back();
-    cout<<"the element of vector are "<<endl;
+    cout<<"the element of vector are "<<v.pop_back()<<endl;;
     
     return 0;
 }
